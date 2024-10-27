@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderBy", "OrderBy\OrderBy.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThenBy", "ThenBy\ThenBy.csproj", "{5F42D036-2532-4457-A17F-2E59151741F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{7F69F835-8701-4701-953C-CC5E572EECAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5F42D036-2532-4457-A17F-2E59151741F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F42D036-2532-4457-A17F-2E59151741F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F42D036-2532-4457-A17F-2E59151741F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F69F835-8701-4701-953C-CC5E572EECAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F69F835-8701-4701-953C-CC5E572EECAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F69F835-8701-4701-953C-CC5E572EECAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F69F835-8701-4701-953C-CC5E572EECAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
